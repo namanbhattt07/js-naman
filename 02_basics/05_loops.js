@@ -44,17 +44,16 @@ for (const [key,value] of map){
 
 const coding = ['js',"ruby",'cpp',"python"]
 
-/*
+
 coding.forEach( function (item) { 
     console.log(item);
 } )
 
 
 coding.forEach((item) => {
-    console.log(item);
+   // console.log(item);
     
 })
-*/
 
 
 
