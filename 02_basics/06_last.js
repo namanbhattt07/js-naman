@@ -27,3 +27,5 @@ arr.forEach((num) => {
 console.log(even); // [2, 4]
 
 
+
+
